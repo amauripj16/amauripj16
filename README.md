@@ -23,7 +23,7 @@
 
 ### **My projects**
 
-- [Churn Modle](https://github.com/Churn_model)
+- [Projetos de estudo.](https://github.com/amauripj16/projetos_de_estudo.git)
 
 
 <!--
