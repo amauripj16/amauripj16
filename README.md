@@ -1,4 +1,4 @@
-### Hi, i´m Amauri! 👋👨💻
+### Hi, i´m Amauri! 👋👨
 ###
 ![GitHub_Logo](github.png)
 
