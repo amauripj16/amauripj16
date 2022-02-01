@@ -1,6 +1,6 @@
 ### Hi, i´m Amauri! 👋👨💻
 ###
-![GitHub_Logo](github.PNG)
+![GitHub_Logo](github.png)
 
 ### How am I ?
 
